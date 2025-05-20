@@ -1,0 +1,30 @@
+body {background-color: #E8F8FF;}
+
+img {
+  max-width: 50%;
+  height: 50%;
+}
+body {
+  color: #18AD74;
+}
+
+h1 {
+  color: pink;
+}
+p {
+  font-size: 30px;
+ color: #B28FF9;
+
+}
+p1 {
+  font-size: 50px;
+ color: #B28FF9;
+
+}
+a:link {
+  color:#01CBE5;
+}
+
+a:visited {
+  color: green;
+}
